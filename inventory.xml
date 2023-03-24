@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Inventory name="Inventory">
+	<Category name="Food">
+		<item name="CandyBar" id="1001" price="2.50" quantity="150" />
+		<item name="Gum" id="1002" price="3.00" quantity="120" />
+		<item name="Banana" id="1003" price="0.99" quantity="24" />
+		<item name="Chips" id="1004" price="1.50" quantity="200" />
+		<item name="Pretzel" id="1005" price="0.99" quantity="30" />
+		<item name="Soda" id="1006" price="1.99" quantity="250" />
+		<item name="Water" id="1007" price="1.25" quantity="400" />
+	</Category>
+	<Category name="Clothing">
+		<item name="TShirt" id="2001" price="19.99" quantity="75" />
+		<item name="ButtonUp" id="2002" price="25.00" quantity="50" />
+		<item name="Sweatshirt" id="2003" price="40.00" quantity="60" />
+		<item name="Shorts" id="2004" price="15.00" quantity="25" />
+		<item name="Sweatpants" id="2005" price="30.00" quantity="48" />
+		<item name="BaseballHat" id="2006" price="20.00" quantity="50" />
+		<item name="BucketHat" id="2007" price="15.00" quantity="30" />
+		<item name="Socks" id="2008" price="4.99" quantity="60" />
+	</Category>
+	<Category name="Beauty">
+		<item name="Shampoo" id="3001" price="6.99" quantity="120" />
+		<item name="Conditioner" id="3002" price="7.50" quantity="70" />
+		<item name="Deodorant" id="3003" price="7.50" quantity="90" />
+		<item name="BodyWash" id="3004" price="4.99" quantity="125" />
+		<item name="HandSoap" id="3005" price="4.00" quantity="100" />
+		<item name="HairClip" id="3006" price="3.99" quantity="30" />
+		<item name="Razor" id="3007" price="12.50" quantity="45" />
+		<item name="ShavingCream" id="3008" price="6.50" quantity="50" />
+		<item name="FaceWash" id="3009" price="4.99" quantity="75" />
+		<item name="Lotion" id="3010" price="3.50" quantity="80" />
+		<item name="Toothpaste" id="3011" price="4.75" quantity="140" />
+	</Category>	
+	<Category name="Pharmacy">
+		<item name="Tylenol" id="4001" price="19.99" quantity="200" />
+		<item name="Mucinex" id="4002" price="18.00" quantity="200" />
+		<item name="NyQuil" id="4003" price="24.99" quantity="130" />
+		<item name="CoughDrops" id="4004" price="7.99" quantity="160" />
+		<item name="Tums" id="4005" price="15.25" quantity="95" />
+		<item name="Multivitamin" id="4006" price="10.00" quantity="110" />
+	</Category>	
+	<Category name="Office">
+		<item name="Pencils" id="5001" price="2.50" quantity="250" />
+		<item name="LinedPaper" id="5002" price="4.80" quantity="250" />
+		<item name="PrinterPaper" id="5003" price="6.00" quantity="300" />
+		<item name="Scissors" id="5004" price="7.50" quantity="72" />
+		<item name="PaperTowel" id="5005" price="3.00" quantity="175" />
+		<item name="ToiletPaper" id="5006" price="5.00" quantity="140" />
+	</Category>
+</Inventory>
