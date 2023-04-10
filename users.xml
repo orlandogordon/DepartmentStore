@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Users date="04.10.23">
+	<user name="Jackson" pin="1111" access ="admin" />
+	<user name="Orlando" pin="1998" access ="basic" />
+	<user name="Jenna" pin="0000" access ="privileged" />
+</Users>
