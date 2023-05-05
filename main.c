@@ -23,6 +23,14 @@ User CreateNewUser(void);
 
 
 int main(void) {
+
+    wchar_t a[10] = L"1.012";
+    int b = a[0] - 48;
+    printf("Wide string = %ws\n", a);
+    printf("Int = %d\n", b);
+    if (b == 1)
+        printf("The test worked!!!\n");
+
     User ActiveUser = LoginUser();
 
     printf("Succesfully logged in as");
